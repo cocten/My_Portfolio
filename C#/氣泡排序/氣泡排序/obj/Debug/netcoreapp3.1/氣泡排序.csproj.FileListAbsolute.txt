@@ -1,0 +1,13 @@
+D:\練習\氣泡排序\氣泡排序\bin\Debug\netcoreapp3.1\氣泡排序.exe
+D:\練習\氣泡排序\氣泡排序\bin\Debug\netcoreapp3.1\氣泡排序.deps.json
+D:\練習\氣泡排序\氣泡排序\bin\Debug\netcoreapp3.1\氣泡排序.runtimeconfig.json
+D:\練習\氣泡排序\氣泡排序\bin\Debug\netcoreapp3.1\氣泡排序.runtimeconfig.dev.json
+D:\練習\氣泡排序\氣泡排序\bin\Debug\netcoreapp3.1\氣泡排序.dll
+D:\練習\氣泡排序\氣泡排序\bin\Debug\netcoreapp3.1\氣泡排序.pdb
+D:\練習\氣泡排序\氣泡排序\obj\Debug\netcoreapp3.1\氣泡排序.csprojAssemblyReference.cache
+D:\練習\氣泡排序\氣泡排序\obj\Debug\netcoreapp3.1\氣泡排序.AssemblyInfoInputs.cache
+D:\練習\氣泡排序\氣泡排序\obj\Debug\netcoreapp3.1\氣泡排序.AssemblyInfo.cs
+D:\練習\氣泡排序\氣泡排序\obj\Debug\netcoreapp3.1\氣泡排序.csproj.CoreCompileInputs.cache
+D:\練習\氣泡排序\氣泡排序\obj\Debug\netcoreapp3.1\氣泡排序.dll
+D:\練習\氣泡排序\氣泡排序\obj\Debug\netcoreapp3.1\氣泡排序.pdb
+D:\練習\氣泡排序\氣泡排序\obj\Debug\netcoreapp3.1\氣泡排序.genruntimeconfig.cache

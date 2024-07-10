@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "氣泡排序/1.0.0": {
+        "runtime": {
+          "氣泡排序.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "氣泡排序/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
