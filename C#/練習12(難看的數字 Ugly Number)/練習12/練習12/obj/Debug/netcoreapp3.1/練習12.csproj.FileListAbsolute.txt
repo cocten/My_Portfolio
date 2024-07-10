@@ -1,0 +1,41 @@
+D:\練習\練習12\練習12\練習12\bin\Debug\netcoreapp3.1\練習12.exe
+D:\練習\練習12\練習12\練習12\bin\Debug\netcoreapp3.1\練習12.deps.json
+D:\練習\練習12\練習12\練習12\bin\Debug\netcoreapp3.1\練習12.runtimeconfig.json
+D:\練習\練習12\練習12\練習12\bin\Debug\netcoreapp3.1\練習12.runtimeconfig.dev.json
+D:\練習\練習12\練習12\練習12\bin\Debug\netcoreapp3.1\練習12.dll
+D:\練習\練習12\練習12\練習12\bin\Debug\netcoreapp3.1\練習12.pdb
+D:\練習\練習12\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.csprojAssemblyReference.cache
+D:\練習\練習12\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.AssemblyInfoInputs.cache
+D:\練習\練習12\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.AssemblyInfo.cs
+D:\練習\練習12\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.csproj.CoreCompileInputs.cache
+D:\練習\練習12\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.dll
+D:\練習\練習12\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.pdb
+D:\練習\練習12\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.genruntimeconfig.cache
+D:\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\bin\Debug\netcoreapp3.1\練習12.exe
+D:\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\bin\Debug\netcoreapp3.1\練習12.deps.json
+D:\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\bin\Debug\netcoreapp3.1\練習12.runtimeconfig.json
+D:\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\bin\Debug\netcoreapp3.1\練習12.runtimeconfig.dev.json
+D:\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\bin\Debug\netcoreapp3.1\練習12.dll
+D:\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\bin\Debug\netcoreapp3.1\練習12.pdb
+D:\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.csproj.AssemblyReference.cache
+D:\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.GeneratedMSBuildEditorConfig.editorconfig
+D:\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.AssemblyInfoInputs.cache
+D:\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.AssemblyInfo.cs
+D:\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.csproj.CoreCompileInputs.cache
+D:\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.dll
+D:\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.pdb
+D:\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.genruntimeconfig.cache
+D:\作品\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\bin\Debug\netcoreapp3.1\練習12.exe
+D:\作品\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\bin\Debug\netcoreapp3.1\練習12.deps.json
+D:\作品\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\bin\Debug\netcoreapp3.1\練習12.runtimeconfig.json
+D:\作品\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\bin\Debug\netcoreapp3.1\練習12.runtimeconfig.dev.json
+D:\作品\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\bin\Debug\netcoreapp3.1\練習12.dll
+D:\作品\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\bin\Debug\netcoreapp3.1\練習12.pdb
+D:\作品\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.csproj.AssemblyReference.cache
+D:\作品\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.GeneratedMSBuildEditorConfig.editorconfig
+D:\作品\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.AssemblyInfoInputs.cache
+D:\作品\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.AssemblyInfo.cs
+D:\作品\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.csproj.CoreCompileInputs.cache
+D:\作品\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.dll
+D:\作品\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.pdb
+D:\作品\練習\練習12(難看的數字 Ugly Number)\練習12\練習12\obj\Debug\netcoreapp3.1\練習12.genruntimeconfig.cache

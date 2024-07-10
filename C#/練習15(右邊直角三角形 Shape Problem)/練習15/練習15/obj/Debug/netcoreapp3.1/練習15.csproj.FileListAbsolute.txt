@@ -1,0 +1,13 @@
+D:\練習\練習15(右邊直角三角形 Shape Problem)\練習15\練習15\bin\Debug\netcoreapp3.1\練習15.exe
+D:\練習\練習15(右邊直角三角形 Shape Problem)\練習15\練習15\bin\Debug\netcoreapp3.1\練習15.deps.json
+D:\練習\練習15(右邊直角三角形 Shape Problem)\練習15\練習15\bin\Debug\netcoreapp3.1\練習15.runtimeconfig.json
+D:\練習\練習15(右邊直角三角形 Shape Problem)\練習15\練習15\bin\Debug\netcoreapp3.1\練習15.runtimeconfig.dev.json
+D:\練習\練習15(右邊直角三角形 Shape Problem)\練習15\練習15\bin\Debug\netcoreapp3.1\練習15.dll
+D:\練習\練習15(右邊直角三角形 Shape Problem)\練習15\練習15\bin\Debug\netcoreapp3.1\練習15.pdb
+D:\練習\練習15(右邊直角三角形 Shape Problem)\練習15\練習15\obj\Debug\netcoreapp3.1\練習15.csprojAssemblyReference.cache
+D:\練習\練習15(右邊直角三角形 Shape Problem)\練習15\練習15\obj\Debug\netcoreapp3.1\練習15.AssemblyInfoInputs.cache
+D:\練習\練習15(右邊直角三角形 Shape Problem)\練習15\練習15\obj\Debug\netcoreapp3.1\練習15.AssemblyInfo.cs
+D:\練習\練習15(右邊直角三角形 Shape Problem)\練習15\練習15\obj\Debug\netcoreapp3.1\練習15.csproj.CoreCompileInputs.cache
+D:\練習\練習15(右邊直角三角形 Shape Problem)\練習15\練習15\obj\Debug\netcoreapp3.1\練習15.dll
+D:\練習\練習15(右邊直角三角形 Shape Problem)\練習15\練習15\obj\Debug\netcoreapp3.1\練習15.pdb
+D:\練習\練習15(右邊直角三角形 Shape Problem)\練習15\練習15\obj\Debug\netcoreapp3.1\練習15.genruntimeconfig.cache
