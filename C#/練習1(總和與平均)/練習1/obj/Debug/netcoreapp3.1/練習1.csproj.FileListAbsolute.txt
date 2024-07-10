@@ -1,0 +1,13 @@
+D:\練習\練習1\練習1\bin\Debug\netcoreapp3.1\練習1.exe
+D:\練習\練習1\練習1\bin\Debug\netcoreapp3.1\練習1.deps.json
+D:\練習\練習1\練習1\bin\Debug\netcoreapp3.1\練習1.runtimeconfig.json
+D:\練習\練習1\練習1\bin\Debug\netcoreapp3.1\練習1.runtimeconfig.dev.json
+D:\練習\練習1\練習1\bin\Debug\netcoreapp3.1\練習1.dll
+D:\練習\練習1\練習1\bin\Debug\netcoreapp3.1\練習1.pdb
+D:\練習\練習1\練習1\obj\Debug\netcoreapp3.1\練習1.csprojAssemblyReference.cache
+D:\練習\練習1\練習1\obj\Debug\netcoreapp3.1\練習1.AssemblyInfoInputs.cache
+D:\練習\練習1\練習1\obj\Debug\netcoreapp3.1\練習1.AssemblyInfo.cs
+D:\練習\練習1\練習1\obj\Debug\netcoreapp3.1\練習1.csproj.CoreCompileInputs.cache
+D:\練習\練習1\練習1\obj\Debug\netcoreapp3.1\練習1.dll
+D:\練習\練習1\練習1\obj\Debug\netcoreapp3.1\練習1.pdb
+D:\練習\練習1\練習1\obj\Debug\netcoreapp3.1\練習1.genruntimeconfig.cache
