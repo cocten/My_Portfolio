@@ -1,0 +1,41 @@
+D:\練習\練習11\練習11\bin\Debug\netcoreapp3.1\練習11.exe
+D:\練習\練習11\練習11\bin\Debug\netcoreapp3.1\練習11.deps.json
+D:\練習\練習11\練習11\bin\Debug\netcoreapp3.1\練習11.runtimeconfig.json
+D:\練習\練習11\練習11\bin\Debug\netcoreapp3.1\練習11.runtimeconfig.dev.json
+D:\練習\練習11\練習11\bin\Debug\netcoreapp3.1\練習11.dll
+D:\練習\練習11\練習11\bin\Debug\netcoreapp3.1\練習11.pdb
+D:\練習\練習11\練習11\obj\Debug\netcoreapp3.1\練習11.csprojAssemblyReference.cache
+D:\練習\練習11\練習11\obj\Debug\netcoreapp3.1\練習11.AssemblyInfoInputs.cache
+D:\練習\練習11\練習11\obj\Debug\netcoreapp3.1\練習11.AssemblyInfo.cs
+D:\練習\練習11\練習11\obj\Debug\netcoreapp3.1\練習11.csproj.CoreCompileInputs.cache
+D:\練習\練習11\練習11\obj\Debug\netcoreapp3.1\練習11.dll
+D:\練習\練習11\練習11\obj\Debug\netcoreapp3.1\練習11.pdb
+D:\練習\練習11\練習11\obj\Debug\netcoreapp3.1\練習11.genruntimeconfig.cache
+D:\練習\練習11(訊號分析Signal Processing)\練習11\bin\Debug\netcoreapp3.1\練習11.exe
+D:\練習\練習11(訊號分析Signal Processing)\練習11\bin\Debug\netcoreapp3.1\練習11.deps.json
+D:\練習\練習11(訊號分析Signal Processing)\練習11\bin\Debug\netcoreapp3.1\練習11.runtimeconfig.json
+D:\練習\練習11(訊號分析Signal Processing)\練習11\bin\Debug\netcoreapp3.1\練習11.runtimeconfig.dev.json
+D:\練習\練習11(訊號分析Signal Processing)\練習11\bin\Debug\netcoreapp3.1\練習11.dll
+D:\練習\練習11(訊號分析Signal Processing)\練習11\bin\Debug\netcoreapp3.1\練習11.pdb
+D:\練習\練習11(訊號分析Signal Processing)\練習11\obj\Debug\netcoreapp3.1\練習11.AssemblyInfoInputs.cache
+D:\練習\練習11(訊號分析Signal Processing)\練習11\obj\Debug\netcoreapp3.1\練習11.AssemblyInfo.cs
+D:\練習\練習11(訊號分析Signal Processing)\練習11\obj\Debug\netcoreapp3.1\練習11.csproj.CoreCompileInputs.cache
+D:\練習\練習11(訊號分析Signal Processing)\練習11\obj\Debug\netcoreapp3.1\練習11.dll
+D:\練習\練習11(訊號分析Signal Processing)\練習11\obj\Debug\netcoreapp3.1\練習11.pdb
+D:\練習\練習11(訊號分析Signal Processing)\練習11\obj\Debug\netcoreapp3.1\練習11.genruntimeconfig.cache
+D:\練習\練習11(訊號分析Signal Processing)\練習11\obj\Debug\netcoreapp3.1\練習11.csproj.AssemblyReference.cache
+D:\練習\練習11(訊號分析Signal Processing)\練習11\obj\Debug\netcoreapp3.1\練習11.GeneratedMSBuildEditorConfig.editorconfig
+D:\作品\練習\練習11(訊號分析Signal Processing)\練習11\bin\Debug\netcoreapp3.1\練習11.exe
+D:\作品\練習\練習11(訊號分析Signal Processing)\練習11\bin\Debug\netcoreapp3.1\練習11.deps.json
+D:\作品\練習\練習11(訊號分析Signal Processing)\練習11\bin\Debug\netcoreapp3.1\練習11.runtimeconfig.json
+D:\作品\練習\練習11(訊號分析Signal Processing)\練習11\bin\Debug\netcoreapp3.1\練習11.runtimeconfig.dev.json
+D:\作品\練習\練習11(訊號分析Signal Processing)\練習11\bin\Debug\netcoreapp3.1\練習11.dll
+D:\作品\練習\練習11(訊號分析Signal Processing)\練習11\bin\Debug\netcoreapp3.1\練習11.pdb
+D:\作品\練習\練習11(訊號分析Signal Processing)\練習11\obj\Debug\netcoreapp3.1\練習11.csproj.AssemblyReference.cache
+D:\作品\練習\練習11(訊號分析Signal Processing)\練習11\obj\Debug\netcoreapp3.1\練習11.GeneratedMSBuildEditorConfig.editorconfig
+D:\作品\練習\練習11(訊號分析Signal Processing)\練習11\obj\Debug\netcoreapp3.1\練習11.AssemblyInfoInputs.cache
+D:\作品\練習\練習11(訊號分析Signal Processing)\練習11\obj\Debug\netcoreapp3.1\練習11.AssemblyInfo.cs
+D:\作品\練習\練習11(訊號分析Signal Processing)\練習11\obj\Debug\netcoreapp3.1\練習11.csproj.CoreCompileInputs.cache
+D:\作品\練習\練習11(訊號分析Signal Processing)\練習11\obj\Debug\netcoreapp3.1\練習11.dll
+D:\作品\練習\練習11(訊號分析Signal Processing)\練習11\obj\Debug\netcoreapp3.1\練習11.pdb
+D:\作品\練習\練習11(訊號分析Signal Processing)\練習11\obj\Debug\netcoreapp3.1\練習11.genruntimeconfig.cache
