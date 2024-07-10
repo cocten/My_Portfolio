@@ -1,0 +1,13 @@
+D:\練習\練習16(字母出現頻率 Counting Problem)\練習16\練習16\bin\Debug\netcoreapp3.1\練習16.exe
+D:\練習\練習16(字母出現頻率 Counting Problem)\練習16\練習16\bin\Debug\netcoreapp3.1\練習16.deps.json
+D:\練習\練習16(字母出現頻率 Counting Problem)\練習16\練習16\bin\Debug\netcoreapp3.1\練習16.runtimeconfig.json
+D:\練習\練習16(字母出現頻率 Counting Problem)\練習16\練習16\bin\Debug\netcoreapp3.1\練習16.runtimeconfig.dev.json
+D:\練習\練習16(字母出現頻率 Counting Problem)\練習16\練習16\bin\Debug\netcoreapp3.1\練習16.dll
+D:\練習\練習16(字母出現頻率 Counting Problem)\練習16\練習16\bin\Debug\netcoreapp3.1\練習16.pdb
+D:\練習\練習16(字母出現頻率 Counting Problem)\練習16\練習16\obj\Debug\netcoreapp3.1\練習16.csprojAssemblyReference.cache
+D:\練習\練習16(字母出現頻率 Counting Problem)\練習16\練習16\obj\Debug\netcoreapp3.1\練習16.AssemblyInfoInputs.cache
+D:\練習\練習16(字母出現頻率 Counting Problem)\練習16\練習16\obj\Debug\netcoreapp3.1\練習16.AssemblyInfo.cs
+D:\練習\練習16(字母出現頻率 Counting Problem)\練習16\練習16\obj\Debug\netcoreapp3.1\練習16.csproj.CoreCompileInputs.cache
+D:\練習\練習16(字母出現頻率 Counting Problem)\練習16\練習16\obj\Debug\netcoreapp3.1\練習16.dll
+D:\練習\練習16(字母出現頻率 Counting Problem)\練習16\練習16\obj\Debug\netcoreapp3.1\練習16.pdb
+D:\練習\練習16(字母出現頻率 Counting Problem)\練習16\練習16\obj\Debug\netcoreapp3.1\練習16.genruntimeconfig.cache
