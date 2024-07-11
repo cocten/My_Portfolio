@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jun 14 03:03:31 2024
-
-@author: Yu-Chia
-"""
-
 import tensorflow as tf
 import cv2 
 mnist = tf.keras.datasets.mnist
