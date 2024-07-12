@@ -16,7 +16,7 @@ y = df.disease_progression
 X = df.drop(['disease_progression'], axis=1)
 
 X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2, random_state=1) #切割設置 X_T, n =309 . X_V, n = 133
-X_train.shape, X_val.shape, y_train.shape,y_val.shape
+#X_train.shape, X_val.shape, y_train.shape,y_val.shape
 
 #RandomForestRegressor
 model_RF = RandomForestRegressor(n_estimators=3000, max_depth=15, random_state=1).fit(X_train, y_train)
