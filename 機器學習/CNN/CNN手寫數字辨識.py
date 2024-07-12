@@ -15,9 +15,6 @@ print("X_train shape:",x_train.shape)
 print("X_test shape:",x_test.shape)
 print("y_train label:",y_train.shape)
 print("y_test label:",y_test.shape)
-# print(x_train[0])
-# x_train.ndim\
-    
 
 def plot_images(images,labels,prediction,idx,num=10):
     fig = plt.gcf()
@@ -37,7 +34,6 @@ def plot_images(images,labels,prediction,idx,num=10):
 
 plot_images(x_train,y_train,[],0,10)
 plot_images(x_test,y_test,[],0,10)
-
 
 # 建立模型
 input_shape=(28, 28, 1)
@@ -77,7 +73,6 @@ def show_history(train_acc,test_acc):
     plt.legend(['train', 'test'], loc='upper left')
     plt.show()
 show_history('accuracy','val_accuracy')
-
 
 def show_history(train_acc,test_acc):
     plt.plot(history.history[train_acc])
