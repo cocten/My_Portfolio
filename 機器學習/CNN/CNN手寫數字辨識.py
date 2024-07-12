@@ -1,5 +1,9 @@
 import tensorflow as tf
 import cv2 
+from tensorflow.keras import layers
+import numpy as np
+import matplotlib.pyplot as plt
+
 mnist = tf.keras.datasets.mnist
 
 # 載入 MNIST 手寫阿拉伯數字資料
@@ -14,7 +18,7 @@ print("y_test label:",y_test.shape)
 # print(x_train[0])
 # x_train.ndim\
     
-import matplotlib.pyplot as plt
+
 def plot_images(images,labels,prediction,idx,num=10):
     fig = plt.gcf()
     fig.set_size_inches(12, 14)
@@ -32,30 +36,10 @@ def plot_images(images,labels,prediction,idx,num=10):
     plt.show()
 
 plot_images(x_train,y_train,[],0,10)
+plot_images(x_test,y_test,[],0,10)
 
-import matplotlib.pyplot as plt
-def plot_images(images,labels,prediction,idx,num=10):
-    fig = plt.gcf()
-    fig.set_size_inches(12, 14)
-    if num>25: num=25 
-    for i in range(0, num):
-        ax=plt.subplot(5,5, 1+i)
-        ax.imshow(images[idx], cmap='binary')
-        title= "label=" +str(labels[idx])
-        if len(prediction)>0:
-            title+=",predict="+str(prediction[idx]) 
-            
-        ax.set_title(title,fontsize=10) 
-        ax.set_xticks([]);ax.set_yticks([])        
-        idx+=1 
-    plt.show()
-
-plot_images(x_test,y_test,[],3,10)
 
 # 建立模型
-from tensorflow.keras import layers
-import numpy as np
-
 input_shape=(28, 28, 1)
 # 增加一維在最後面
 x_train_norm = np.expand_dims(x_train_norm, -1)
@@ -87,7 +71,6 @@ score=model.evaluate(x_test_norm, y_test, verbose=1)
 for i, x in enumerate(score):
     print(f'{model.metrics_names[i]}: {score[i]:.4f}')
     
-    import matplotlib.pyplot as plt
 def show_history(train_acc,test_acc):
     plt.plot(history.history[train_acc])
     plt.plot(history.history[test_acc])
@@ -98,7 +81,7 @@ def show_history(train_acc,test_acc):
     plt.show()
 show_history('accuracy','val_accuracy')
 
-import matplotlib.pyplot as plt
+
 def show_history(train_acc,test_acc):
     plt.plot(history.history[train_acc])
     plt.plot(history.history[test_acc])
