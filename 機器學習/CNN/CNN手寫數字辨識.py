@@ -58,9 +58,6 @@ model = tf.keras.Sequential(
         layers.Dense(10, activation="softmax"),
     ]
 )
-# model.summary()
-x_train_norm.ndim
-x_train_norm.shape
 
 # 設定優化器(optimizer)、損失函數(loss)、效能衡量指標(metrics)的類別
 model.compile(optimizer='adam',loss='sparse_categorical_crossentropy',metrics=['accuracy'])
